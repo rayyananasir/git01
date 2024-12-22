@@ -1,2 +1,3 @@
 initial content
 change from feature1
+change from feature2
